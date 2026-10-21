@@ -4,6 +4,14 @@
   "description": "ScrumBridge: chat + MCP server that connects the team's decisions and plan to an IDE agent",
   "license": "Apache-2.0",
   "author": "Igor Akymenko",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorakymenko-create/ScrumBridge.git"
+  },
+  "homepage": "https://github.com/igorakymenko-create/ScrumBridge#readme",
+  "bugs": {
+    "url": "https://github.com/igorakymenko-create/ScrumBridge/issues"
+  },
   "type": "module",
   "bin": {
     "scrumbridge": "dist/index.js"

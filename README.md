@@ -25,8 +25,8 @@ ScrumBridge is a small local app. You describe a task in a chat, a team of LLM r
 Requires Node.js 20 or newer.
 
 ```bash
-git clone <this repository>
-cd scrumbridge
+git clone https://github.com/igorakymenko-create/ScrumBridge.git
+cd ScrumBridge
 npm install
 npm run build
 
