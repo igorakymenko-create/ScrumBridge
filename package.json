@@ -18,6 +18,7 @@
   },
   "scripts": {
     "build": "tsc",
+    "prepare": "tsc",
     "start": "node dist/index.js",
     "dev": "tsc && node dist/index.js",
     "test": "tsc && node --test \"test/**/*.test.mjs\""
